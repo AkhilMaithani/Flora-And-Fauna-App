@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Customise theme code  for Splash Screen -->
+    <style name="MyThemeSplash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/actionBarColor</item>
+        <item name="colorPrimaryVariant">@color/notificationBarColor</item>
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+
+</resources>

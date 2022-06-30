@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.floraandfauna">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/MyThemeSplash">
+        <activity
+            android:name=".ValleyOfFlowersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BluePoppyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BuransActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BrahmaKamalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JimCorbettActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElephantActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TigerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MonalBirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MuskDeerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FaunaInitialActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FloraInitialActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FaunaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FloraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
