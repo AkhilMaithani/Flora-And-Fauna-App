@@ -27,7 +27,6 @@ __Note: Please follow the below mentioned procedures to make this project run ef
 3. Platform Used
     * Android Studio
 
-
 ---
 
 ## Dependencies
@@ -35,9 +34,7 @@ __Note: Please follow the below mentioned procedures to make this project run ef
 * Install Android Studio as per your device/system.
 * Download From Here &nbsp; [Android Studio](https://developer.android.com/studio "Download Android Studio From Here")
 
-
 ---
-
 
 ## How to use
 
@@ -47,31 +44,25 @@ __Note: Please follow the below mentioned procedures to make this project run ef
 * Press Run button inside Android Studio.
 * And, observe the output in your respective device.
 
+---
+
+## Project Screenshots
+
+<img src="Imagesp/IntroPage.jpeg" alt="IntroPage" width="200px"> &nbsp;
+<img src="Imagesp/SecondPage.jpeg" alt="SecondPage" width="200px"> &nbsp;
+<img src="Imagesp/ThirdPage.jpeg" alt="ThirdPage" width="200px"> &nbsp;
+<br>
+<img src="Imagesp/FourthPage.jpeg" alt="FourthPage" width="200px"> &nbsp;
+<img src="Imagesp/FifthPage.jpeg" alt="FifthPage" width="200px"> &nbsp;
+<img src="Imagesp/SixthPage.jpeg" alt="SixthPage" width="200px"> &nbsp;
 
 ---
 
+# Project Demo
 
-## Project Screenshots and Project Demo
-
-<div style="display:flex; justify-content: space-around;">
-    <div>
-        <img src="Imagesp/IntroPage.jpeg" alt="IntroPage" width="100px"> &nbsp;
-        <img src="Imagesp/SecondPage.jpeg" alt="SecondPage" width="100px"> &nbsp;
-        <img src="Imagesp/ThirdPage.jpeg" alt="ThirdPage" width="100px"> &nbsp;
-        <br>
-        <img src="Imagesp/FourthPage.jpeg" alt="FourthPage" width="100px"> &nbsp;
-        <img src="Imagesp/FifthPage.jpeg" alt="FifthPage" width="100px"> &nbsp;
-        <img src="Imagesp/SixthPage.jpeg" alt="SixthPage" width="100px"> &nbsp;
-    </div>
-    <div>
-        <img src="Imagesp/DemoProject.gif" alt="DemoProject" title="Please ignore the blury effect!" width="200px">
-    </div>
-</div>
-
-
+<img src="Imagesp/DemoProject.gif" alt="DemoProject" title="Please ignore the blury effect!" width="200px">
 
 ---
-
 
 ## Important Notes
 
