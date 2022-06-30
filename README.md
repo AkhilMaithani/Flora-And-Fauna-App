@@ -53,9 +53,6 @@ __Note: Please follow the below mentioned procedures to make this project run ef
 
 ## Project Screenshots and Project Demo
 
-
-
-
 <div style="display:flex; justify-content: space-around;">
     <div>
         <img src="Imagesp/IntroPage.jpeg" alt="IntroPage" width="100px"> &nbsp;
@@ -67,10 +64,7 @@ __Note: Please follow the below mentioned procedures to make this project run ef
         <img src="Imagesp/SixthPage.jpeg" alt="SixthPage" width="100px"> &nbsp;
     </div>
     <div>
-        <video autoplay loop muted width="200px">
-            video not suported!!
-            <source src="Imagesp/DemoProject.mp4">
-        <video>
+        <img src="Imagesp/DemoProject.gif" alt="DemoProject" title="Please ignore the blury effect!" width="200px">
     </div>
 </div>
 
