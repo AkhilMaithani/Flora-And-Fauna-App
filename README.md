@@ -60,7 +60,7 @@ __Note: Please follow the below mentioned procedures to make this project run ef
 
 # Project Demo
 
-<img src="Imagesp/DemoProject.gif" alt="DemoProject" title="Please ignore the blury effect!" width="200px">
+<img src="Imagesp/Project.gif" alt="DemoProject" title="Please ignore the blury effect!" width="200px">
 
 ---
 
